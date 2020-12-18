@@ -1,14 +1,14 @@
 # Download Button
 Download Button Only With CSS!
 
-## Installation
+### Installation
 ```html
 <link rel="stylesheet" href="" />
 <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Varela+Round" />
 ```
 
-## Usage
+### Usage
 ```html
 <a class="download" href="#platforms"></a>
 <div class="platforms" id="platforms">
