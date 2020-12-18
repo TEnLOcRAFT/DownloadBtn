@@ -2,9 +2,6 @@
 Download Button Only With CSS!
 
 ## Installation
-```
-npm install @TEnLOcRAFT/DownloadBtn
-```
 ```html
 <link rel="stylesheet" href="" />
 <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" />
