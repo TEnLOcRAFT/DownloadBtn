@@ -4,4 +4,6 @@
 let's copy the orginal:
 ### step 1:
 run notepad and type:
-html```<h1>Hello World</h1>```
+```html
+<h1>Hello World</h1>
+```
