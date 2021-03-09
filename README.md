@@ -1,2 +1,2 @@
 # Download BTN
-<img src="Untitled.png" alt="" height="200" width="800">
+<img src="Untitled.png" alt="" height="500" width="800">
